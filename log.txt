@@ -1,0 +1,61 @@
+commit b6c51dd8d2bbfdb6aa9335a1268c84c3e6a2d747
+Merge: 10d0f4e cab0379
+Author: Juan Luis Soto Martinez <user.luis.sm@gmail.com>
+Date:   Thu May 6 11:19:38 2021 -0500
+
+    Merge branch 'master' into main
+
+commit 10d0f4e43f519aa0bef7194e6f9b85439ef3084d
+Author: Juan Luis Soto Martinez <user.luis.sm@gmail.com>
+Date:   Thu May 6 11:14:41 2021 -0500
+
+    Eliminado prints innecesarios
+
+commit 262f1de6b6aa4ad7102d428843d91ea39e3b32d0
+Author: Juan Luis Soto Martinez <user.luis.sm@gmail.com>
+Date:   Thu May 6 11:12:36 2021 -0500
+
+    Fix al problema del rectangulo y resuelto problema de rectangulo
+
+commit 91e01a2c886ea1a2529b2820eeecd9ae122df072
+Author: Juan Luis Soto Martinez <user.luis.sm@gmail.com>
+Date:   Thu May 6 10:56:03 2021 -0500
+
+    Rectangulos
+
+commit cab03795071d14907c8bd747d6ec8b16b473aabb
+Author: SnipperPlayer <galeana2002@hotmail.com>
+Date:   Thu May 6 10:49:56 2021 -0500
+
+    color
+
+commit bea512dde1ccc91aa5bb4c23c99c8f25f0bf9982
+Author: Juan Luis Soto Martinez <user.luis.sm@gmail.com>
+Date:   Thu May 6 10:14:49 2021 -0500
+
+    Codigo fuente snakes 3
+
+commit 50ac4e2d25f7c32d8058e9058d00084679456ba5
+Author: Juan Luis Soto Martinez <user.luis.sm@gmail.com>
+Date:   Thu May 6 10:07:29 2021 -0500
+
+    Codigo fuente snakes
+
+commit 4ae08a0c63e1958c0661fa5583a184aafb2e6a7e
+Merge: fd0c5ed f63717d
+Author: Juan Luis Soto Martinez <user.luis.sm@gmail.com>
+Date:   Thu May 6 10:04:09 2021 -0500
+
+    Merge branch 'master' of https://github.com/grandeotos/SemanatTEC_A1 into main
+
+commit f63717d713bb712ca990c47e6c4a6d568b1ea697
+Author: Juan Luis Soto Martinez <user.luis.sm@gmail.com>
+Date:   Thu May 6 10:00:05 2021 -0500
+
+    Commit
+
+commit fd0c5ed8eaf9711150a67760dad08cc0802f6ab2
+Author: Juan Luis Soto Martinez <user.luis.sm@gmail.com>
+Date:   Thu May 6 09:56:01 2021 -0500
+
+    Initial commit
