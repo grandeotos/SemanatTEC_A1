@@ -14,14 +14,14 @@ from turtle import *
 from freegames import vector
 
 def line(start, end):
-    print("Draw line from start to end.")
+    "Draw line from start to end."
     up()
     goto(start.x, start.y)
     down()
     goto(end.x, end.y)
 
 def square(start, end):
-    print("Draw square from start to end.")
+    "Draw square from start to end."
     up()
     goto(start.x, start.y)
     down()
@@ -34,11 +34,11 @@ def square(start, end):
     end_fill()
 
 def circle(start, end):
-    print("Draw circle from start to end.")
+    "Draw circle from start to end."
     pass  # TODO
 
 def rectangle(start, end):
-    print("Draw rectangle from start to end.")
+    "Draw rectangle from start to end."
     pass  # TODO
     up()
     goto(start.x, start.y)
@@ -55,7 +55,7 @@ def rectangle(start, end):
     end_fill()
 
 def triangle(start, end):
-    print("Draw triangle from start to end.")
+    "Draw triangle from start to end."
     pass  # TODO
     up()
     goto(start.x, start.y)
@@ -75,7 +75,7 @@ def triangle(start, end):
 
 
 def tap(x, y):
-    print("Store starting point or draw shape.")
+    "Store starting point or draw shape."
     start = state['start']
 
     if start is None:
@@ -87,7 +87,7 @@ def tap(x, y):
         state['start'] = None
 
 def store(key, value):
-    print("Store value in state at key.")
+    "Store value in state at key."
     state[key] = value
 
 state = {'start': None, 'shape': line}
